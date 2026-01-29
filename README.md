@@ -20,5 +20,8 @@ AI will primarily be used to guide the learning process. For example, Git is an 
 
 Code debugging is another avenue where genAI will help a lot. Simply informing what's wrong fundamentally in the code is enough for me to get it fixed. 
 
-I love doing the things that I do, and letting genAI do it for me takes away from the fun. I use ChatGPT almost exclusively, as I've found that it gives me workable results from my 20 USD per month subscription. 
+*I love doing the things that I do, and letting genAI do it for me takes away from the fun. I use ChatGPT almost exclusively, as I've found that it gives me workable results from my $20$USD per month subscription.* 
 
+5. Hypothesis Username
+
+*rtzhang2*
