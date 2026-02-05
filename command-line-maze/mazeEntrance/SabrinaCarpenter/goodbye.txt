@@ -1,0 +1,3 @@
+Maze complete. Congratulations. 
+
+This maze was to lead you around some songs and their lyrics, and ultimately uses Sabrina Carpenter's performance of Manchild at the Grammy's to guide the user to the end. 
